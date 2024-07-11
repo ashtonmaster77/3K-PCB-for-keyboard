@@ -1,1 +1,1 @@
-File for kicad
+File for kicad PCB design application
